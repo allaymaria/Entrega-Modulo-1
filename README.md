@@ -1,7 +1,6 @@
 # Entrega-Modulo-1
 
-## Grupo: 
-**Mate Amargo**
+## Grupo: **Mate Amargo**
 
 ### Integrantes:
 
