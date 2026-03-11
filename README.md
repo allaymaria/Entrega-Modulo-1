@@ -12,7 +12,7 @@
 |Emiliano Daniel Jaime Ayosa|emijaime195@gmail.com|2615791352|<https://github.com/emiliano-jaime/modulo_1>|
 |Nancy Sara|saranancy003@gmail.com|2613991524|<https://github.com/nancy-sara/modulo_1>|
 
-![gato](<img width="2048" height="2048" alt="Gemini_Generated_Image_mzc4pqmzc4pqmzc4" src="https://github.com/user-attachments/assets/c0718fcd-b2df-456d-9c7c-ad87a4f87b05" />)
+![logo del grupo]()
 ---
 
 - Nancy Sara <https://github.com/nancy-sara/modulo_1>
