@@ -12,7 +12,7 @@
 |Emiliano Daniel Jaime Ayosa|emijaime195@gmail.com|2615791352|<https://github.com/emiliano-jaime/modulo_1>|
 |Nancy Sara|saranancy003@gmail.com|2613991524|<https://github.com/nancy-sara/modulo_1>|
 
-![logo del grupo](./TECNICAS Y HERRAM. MODERNAS/logo.png)
+![logo del grupo](<img width="2048" height="2048" alt="logo" src="https://github.com/user-attachments/assets/b31adbd6-9b82-4d21-b39b-3b315d82a3c7" />)
 ---
 
 - Nancy Sara <https://github.com/nancy-sara/modulo_1>
