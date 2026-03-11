@@ -14,6 +14,8 @@
 
 <img src="https://github.com/user-attachments/assets/67d4c81e-36cb-469c-ab0e-82840ca06fcd" width="200" height="200" />
 
+output: 
+html_document
 
 ---
 
