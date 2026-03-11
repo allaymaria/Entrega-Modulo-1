@@ -12,7 +12,7 @@
 |Emiliano Daniel Jaime Ayosa|emijaime195@gmail.com|2615791352|<https://github.com/emiliano-jaime/modulo_1>|
 |Nancy Sara|saranancy003@gmail.com|2613991524|<https://github.com/nancy-sara/modulo_1>|
 
-[logo]:<img width="2048" height="2048" alt="Gemini_Generated_Image_mzc4pqmzc4pqmzc4" src="https://github.com/user-attachments/assets/5e9551d8-a46a-42d5-a5d7-8019fd6b2165" />
+
 
 ---
 
@@ -21,3 +21,5 @@
 - María Allay <https://github.com/allaymaria/Modulo_1>
 - Estefania Funes Brown <https://github.com/estefania-funes-brown/modulo_1>
 - Matias Zaragoza <https://github.com/Mati28Zaragoza/Modulo_1>
+
+[logo]:<img width="2048" height="2048" alt="Gemini_Generated_Image_mzc4pqmzc4pqmzc4" src="https://github.com/user-attachments/assets/5e9551d8-a46a-42d5-a5d7-8019fd6b2165" />
