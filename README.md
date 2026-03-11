@@ -4,6 +4,11 @@
 
 ### Integrantes:
 
+|Nombre|Mail|Celular|Links|
+|---------------------------|-----------------------|-------------|------------------------------------|
+|María Mashael Allay Alfonso|mashael.allay@gmail.com|2615555205|<https://github.com/allaymaria/Modulo_1>|
+
+
 - Nancy Sara <https://github.com/nancy-sara/modulo_1>
 - Emiliano Jaime <https://github.com/emiliano-jaime/modulo_1>
 - María Allay <https://github.com/allaymaria/Modulo_1>
@@ -13,4 +18,3 @@
 
 ---
 
-Entrega del Modulo 1 <https://github.com/allaymaria/Modulo_1>
