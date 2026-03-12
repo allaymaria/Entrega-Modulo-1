@@ -12,6 +12,7 @@
 |Emiliano Daniel Jaime Ayosa|emijaime195@gmail.com|2615791352|<https://github.com/emiliano-jaime/modulo_1>|
 |Nancy Sara|saranancy003@gmail.com|2613991524|<https://github.com/nancy-sara/modulo_1>|
 
+ ### Logo 
 <img src="https://github.com/user-attachments/assets/67d4c81e-36cb-469c-ab0e-82840ca06fcd" width="200" height="200" />
 
 ---
