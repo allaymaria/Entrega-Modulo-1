@@ -15,4 +15,11 @@
  ### Logo 
 <img src="https://github.com/user-attachments/assets/67d4c81e-36cb-469c-ab0e-82840ca06fcd" width="200" height="200" />
 
-$e^{i\pi} + 1 = 0$
+## Actividades
+
+4 de Marzo ->  markdown creación de paginas de github individual y link a página del grupo.
+
+11 de Marzo -> colab github tablas, incrustar imágenes, html w3c, construcción de landing page.
+
+25 de Marzo -> Redacción informe módulo 1 con plantilla de la cátedra  [demo](https://www.overleaf.com/read/gtcnwjpqfgzx#0ea472) 
+
