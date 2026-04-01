@@ -16,11 +16,3 @@
 <img src="https://github.com/user-attachments/assets/67d4c81e-36cb-469c-ab0e-82840ca06fcd" width="200" height="200" />
 
 $e^{i\pi} + 1 = 0$
----
-
-- Nancy Sara <https://github.com/nancy-sara/modulo_1>
-- Emiliano Jaime <https://github.com/emiliano-jaime/modulo_1>
-- María Allay <https://github.com/allaymaria/Modulo_1>
-- Estefania Funes Brown <https://github.com/estefania-funes-brown/modulo_1>
-- Matias Zaragoza <https://github.com/Mati28Zaragoza/Modulo_1>
-
