@@ -18,5 +18,5 @@
 
 8 de Abril -> Algoritmos Gaus Fibonacci TicToc <http://themys.sid.uncu.edu.ar/rpalma/TyHM/Programacion_R/>
 
-**15 de Abril** -> Benchmarking de Algoritmos y Medioides (kmeans)
+15 de Abril -> Benchmarking de Algoritmos y Medioides (kmeans)
 
