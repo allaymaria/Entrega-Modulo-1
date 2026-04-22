@@ -1,1 +1,26 @@
+# Entrega-Modulo-1
+
+## Grupo: **Mate Amargo**
+
+### Integrantes:
+
+|**Nombre**|**Mail**|**Celular**|**Links**|
+|---------------------------|-----------------------|-------------|------------------------------------|
+|María Mashael Allay Alfonso|mashael.allay@gmail.com|2615555205|<https://github.com/allaymaria/Modulo_1>|
+|Estefania Funes Brown|estefifunesbrown2@gmail.com|2613638487|<https://github.com/estefania-funes-brown/modulo_1>|
+|Matías Zaragoza|mnzargo28@gmail.com|2614729888|<https://github.com/Mati28Zaragoza/Modulo_1>|
+|Emiliano Daniel Jaime Ayosa|emijaime195@gmail.com|2615791352|<https://github.com/emiliano-jaime/modulo_1>|
+|Nancy Sara|saranancy003@gmail.com|2613991524|<https://github.com/nancy-sara/modulo_1>|
+
+ ### Logo 
+<img src="https://github.com/user-attachments/assets/67d4c81e-36cb-469c-ab0e-82840ca06fcd" width="200" height="200" />
+
+## Actividades
+
+4 de Marzo ->  markdown creación de paginas de github individual y link a página del grupo.
+
+11 de Marzo -> colab github tablas, incrustar imágenes, html w3c, construcción de landing page.
+
+25 de Marzo -> Redacción informe módulo 1 con plantilla de la cátedra  [demo](https://www.overleaf.com/read/gtcnwjpqfgzx#0ea472) 
+
 
