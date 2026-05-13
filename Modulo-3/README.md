@@ -16,5 +16,7 @@
 
 22 de Abril -> Simulación por Eventos Discretos <https://nube.ingenieria.uncuyo.edu.ar/f/17250434>
 
+06 de Mayo -> Actividades presenciales suspendidas por alerta de viento zonda.
 
+13 de Mayo -> Modelización de eventos discretos, balanceo de línea y asignación de recursos.
 
