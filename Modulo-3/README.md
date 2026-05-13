@@ -18,7 +18,7 @@
 
 29 de Abril -> Ejercicios DEVS. Modelización de eventos discretos y simulación de procesos de decisión de Markov: Aplicación a los Efectos de Apalancamiento (Spanish Edition) Tapa blanda – 11 Mayo 2024
 
-06 de Mayo -> Actividades presenciales suspendidas por alerta de viento zonda.
+06 de Mayo -> Actividades presenciales suspendidas por alerta de viento zonda. [Video de consignas](https://www.youtube.com/watch?v=O0eU_IK1Glc)
 
 13 de Mayo -> Modelización de eventos discretos, balanceo de línea y asignación de recursos.
 
