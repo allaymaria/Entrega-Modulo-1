@@ -14,6 +14,8 @@
 
 ## Actividades
 
+[Simulaciones](http://themys.sid.uncu.edu.ar/rpalma/Industrial/R-CRAN%20TyHM/Simulacion/)
+
 22 de Abril -> Simulación por Eventos Discretos <https://nube.ingenieria.uncuyo.edu.ar/f/17250434>
 
 29 de Abril -> Ejercicios DEVS. Modelización de eventos discretos y simulación de procesos de decisión de Markov: Aplicación a los Efectos de Apalancamiento (Spanish Edition) Tapa blanda – 11 Mayo 2024
