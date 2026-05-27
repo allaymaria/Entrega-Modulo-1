@@ -16,4 +16,6 @@
 
 20 de mayo -> Inicio módulo 4 y Seminario de Investigación
 
-27 de mayo -> Seminario de Investigación parte 2
+27 de mayo -> **Anfitriones**
+
+27 de mayo -> Seminario de Investigación parte 2 
