@@ -7,10 +7,10 @@
 |**Nombre**|**Mail**|**Celular**|**Links**|
 |---------------------------|-----------------------|-------------|------------------------------------|
 |María Mashael Allay Alfonso|mashael.allay@gmail.com|2615555205|<>|
-|Estefania Funes Brown|estefifunesbrown2@gmail.com|2613638487|<>|
+|Estefania Funes Brown|estefifunesbrown2@gmail.com|2613638487|<https://github.com/estefania-funes-brown/Modulo_3>|
 |Matías Zaragoza|mnzargo28@gmail.com|2614729888|<>|
 |Emiliano Daniel Jaime Ayosa|emijaime195@gmail.com|2615791352|<>|
-|Nancy Sara|saranancy003@gmail.com|2613991524|<>|
+|Nancy Sara|saranancy003@gmail.com|2613991524|<https://github.com/nancy-sara/modulo-3>|
 
 ## Actividades
 
