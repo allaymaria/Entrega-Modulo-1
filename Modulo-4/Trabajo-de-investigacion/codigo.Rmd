@@ -53,7 +53,7 @@ bibliography: copper_mendoza.bib
 link-citations: true
 output: 
   distill::distill_article:
-    self_contained: false
+    self_contained: true
     toc: true
     toc_depth: 3
     code_folding: true
