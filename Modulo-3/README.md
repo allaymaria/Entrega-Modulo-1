@@ -25,10 +25,10 @@
 13 de Mayo -> Modelización de eventos discretos, balanceo de línea y asignación de recursos.
 
 ---
-## Simulación 
+## Simulación de la Industria del Cobre
 
 <https://github.com/allaymaria/Entrega-Modulo-1/blob/main/Modulo-3/industriacobre2.S8>
 
-## Resumen del Modulo 3
+## Resumen del Modulo 3 y Explicación de la Simulación
 
 <https://github.com/allaymaria/Entrega-Modulo-1/blob/main/Modulo-3/Modulo_3.zip>
