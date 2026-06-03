@@ -23,4 +23,11 @@
 06 de Mayo -> Actividades presenciales suspendidas por alerta de viento zonda. [Video de consignas](https://www.youtube.com/watch?v=O0eU_IK1Glc)
 
 13 de Mayo -> Modelización de eventos discretos, balanceo de línea y asignación de recursos.
+---
+## Simulación 
 
+<https://github.com/allaymaria/Entrega-Modulo-1/blob/main/Modulo-3/industriacobre2.S8>
+
+## Resumen del Modulo 3
+
+<https://github.com/allaymaria/Entrega-Modulo-1/blob/main/Modulo-3/Modulo_3.zip>
